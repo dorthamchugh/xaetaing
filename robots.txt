@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lohwighofi.carbyn.cn/sitemap.xml
